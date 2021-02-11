@@ -70,8 +70,18 @@ workout_motivation = [
   """,
 
   """
-  “Train insane or remain the same.”
+  “Train insane or remain the same. 👩‍🏫”
   """,
+
+  """
+  “Definition of a really good workout: when you hate doing it, but you love finishing it. 👨‍🎨”
+  """,
+  """
+  “Push yourself because no one else is going to do it for you. 👨‍⚖️”
+  """,
+  """
+  “Success starts with self-discipline. 🤵”
+  """
 ]
 
 if "responding" not in db.keys():
